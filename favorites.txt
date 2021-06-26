@@ -1,3 +1,9 @@
-Biryani
-Pizza
-Pani Puri
+Foods
+-Biryani
+-Pizza
+-Pani Puri
+
+Movies
+-Hacksaw Ridge
+-The Walk
+-Jannat
